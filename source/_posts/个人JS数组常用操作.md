@@ -1,7 +1,11 @@
 ---
 title: 个人JS数组常用操作
 date: 2021-03-25 23:17:58
-tags: 数组
+tags:
+- 数组
+
+categories: 
+- 前端
 ---
 
 ## 1、filter
