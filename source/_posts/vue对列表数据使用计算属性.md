@@ -35,8 +35,6 @@ this.list = list.map(item => {
 
 ## 解决办法
 
-[代码和效果查看](https://codepen.io/twodogegg/pen/QWdEKvZ)
-
 ### 1、对需要渲染的数据，进行单个计算和显示
 
 优点：
@@ -157,6 +155,8 @@ this.list = list.map(item => {
 
 ```
 
+## 在线示例
 
+[链接地址](https://codepen.io/twodogegg/pen/QWdEKvZ)
 
 
