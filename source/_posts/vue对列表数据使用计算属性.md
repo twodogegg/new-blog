@@ -8,6 +8,10 @@ categories:
   - 前端
 ---
 
+## 更新
+
+可以使用 vue 的 filter 来解决这个问题。
+
 
 ## 痛点
 
@@ -161,5 +165,7 @@ this.list = list.map(item => {
 ## 在线示例
 
 [链接地址](https://codepen.io/twodogegg/pen/QWdEKvZ)
+
+
 
 
