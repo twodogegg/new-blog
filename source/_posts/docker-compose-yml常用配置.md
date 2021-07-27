@@ -25,6 +25,7 @@ image: node
 # redis 容器
 hostname: redis
 
+
 ## 其他容器
 environment:
   - REDIS_URL=redis://redis:6379/
